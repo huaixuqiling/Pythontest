@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2034fba-2527-4bfe-87f1-7cebe5e1130f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/The first/test7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/test8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The first/test8.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,61 +37,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0007822948050717" />
-      <entry key="MS500" value="1.2440215943295858" />
-      <entry key="S2" value="1.9872056480710083" />
-      <entry key="S5" value="2.9955332228556713" />
-      <entry key="S10" value="4.684076175263797" />
-      <entry key="S30" value="9.614311547500728" />
-      <entry key="S60" value="12.943277452118576" />
-      <entry key="M2" value="17.064626595884537" />
-      <entry key="M5" value="30.475524028802795" />
-      <entry key="M10" value="57.05105190824854" />
-      <entry key="M15" value="85.38191762218328" />
-      <entry key="M30" value="169.97711573400525" />
-      <entry key="H1" value="316.4704837063309" />
-      <entry key="H2" value="521.0747679782639" />
-      <entry key="H4" value="747.6165756767223" />
-      <entry key="D1" value="1114.7696086978797" />
-      <entry key="W1" value="1207.3997723173084" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.00000120237114" />
+      <entry key="S5" value="1.0064274141676628" />
+      <entry key="S10" value="1.119091482796956" />
+      <entry key="S30" value="2.1351434849703326" />
+      <entry key="S60" value="4.041458275984354" />
+      <entry key="M2" value="8.610825824435363" />
+      <entry key="M5" value="22.44944056783351" />
+      <entry key="M10" value="42.25014716684557" />
+      <entry key="M15" value="61.11627358068688" />
+      <entry key="M30" value="124.67921599293348" />
+      <entry key="H1" value="263.0185731398566" />
+      <entry key="H2" value="490.1851842631591" />
+      <entry key="H4" value="762.7729216986776" />
+      <entry key="D1" value="1233.4053372651026" />
+      <entry key="W1" value="1356.725315359196" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.7517643984143166E-77" />
-      <entry key="MS500" value="5.437145810916828E-16" />
-      <entry key="S2" value="1.5270130372476394E-4" />
-      <entry key="S5" value="0.029753434056444174" />
-      <entry key="S10" value="0.1724918376516643" />
-      <entry key="S30" value="0.5566819955616578" />
-      <entry key="S60" value="0.7513728550383202" />
-      <entry key="M2" value="0.9674931291763177" />
-      <entry key="M5" value="1.8810314315874577" />
-      <entry key="M10" value="4.22512016833664" />
-      <entry key="M15" value="7.37768363722581" />
-      <entry key="M30" value="19.06629648450032" />
-      <entry key="H1" value="40.65426906609977" />
-      <entry key="H2" value="67.72329122526436" />
-      <entry key="H4" value="93.60999328913647" />
-      <entry key="D1" value="130.65787057658653" />
-      <entry key="W1" value="139.44289334362637" />
+      <entry key="MS100" value="4.416407331438017E-266" />
+      <entry key="MS500" value="8.49207506519778E-54" />
+      <entry key="S2" value="5.3982557510531335E-14" />
+      <entry key="S5" value="4.930620669682577E-6" />
+      <entry key="S10" value="0.002222041949851365" />
+      <entry key="S30" value="0.14201583645617843" />
+      <entry key="S60" value="0.46869759061856114" />
+      <entry key="M2" value="0.9329503861224697" />
+      <entry key="M5" value="1.656387847346853" />
+      <entry key="M10" value="2.938974507419047" />
+      <entry key="M15" value="4.7039761709455545" />
+      <entry key="M30" value="12.209007117604047" />
+      <entry key="H1" value="30.90129669635291" />
+      <entry key="H2" value="60.995927173932486" />
+      <entry key="H4" value="93.72457015487778" />
+      <entry key="D1" value="144.31030508551038" />
+      <entry key="W1" value="156.7746419027807" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9273079199091987" />
-      <entry key="MS500" value="1.22488213176171" />
-      <entry key="S2" value="1.9737714662623365" />
-      <entry key="S5" value="2.962933982886218" />
-      <entry key="S10" value="4.751148834706763" />
-      <entry key="S30" value="10.071828462308998" />
-      <entry key="S60" value="13.626278517112233" />
-      <entry key="M2" value="17.98744385274774" />
-      <entry key="M5" value="32.32720269599183" />
-      <entry key="M10" value="61.25105962104909" />
-      <entry key="M15" value="92.73465544067975" />
-      <entry key="M30" value="189.0164043627114" />
-      <entry key="H1" value="357.0973647167642" />
-      <entry key="H2" value="588.7745457038753" />
-      <entry key="H4" value="841.2093489141746" />
-      <entry key="D1" value="1245.4231111221081" />
-      <entry key="W1" value="1346.8419870085402" />
+      <entry key="MS100" value="8.581376269524322E-11" />
+      <entry key="MS500" value="0.009698652277547754" />
+      <entry key="S2" value="0.31381919727738233" />
+      <entry key="S5" value="0.635453463777939" />
+      <entry key="S10" value="0.9140653040481704" />
+      <entry key="S30" value="2.1920733304610236" />
+      <entry key="S60" value="4.4499726533023765" />
+      <entry key="M2" value="9.49864053766036" />
+      <entry key="M5" value="24.074628640877638" />
+      <entry key="M10" value="45.16303575182535" />
+      <entry key="M15" value="65.79554384004399" />
+      <entry key="M30" value="136.86379907254155" />
+      <entry key="H1" value="293.8946087131901" />
+      <entry key="H2" value="551.1576874313462" />
+      <entry key="H4" value="856.4792564843" />
+      <entry key="D1" value="1377.710698468904" />
+      <entry key="W1" value="1513.499178902544" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -104,65 +103,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.test1.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "Python.test4.executor": "Run",
+    "Python.test5.executor": "Run",
+    "Python.test6.executor": "Run",
+    "Python.test7.executor": "Run",
+    "Python.test8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\develop\Pytest\The first" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test7">
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test8">
     <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest" />
       <option name="ENV_FILES" value="" />
@@ -263,13 +238,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test8" />
         <item itemvalue="Python.test7" />
         <item itemvalue="Python.test6" />
         <item itemvalue="Python.test5" />
         <item itemvalue="Python.test4" />
-        <item itemvalue="Python.test3" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +291,7 @@
       <workItem from="1786322164786" duration="47000" />
       <workItem from="1786322220792" duration="119000" />
       <workItem from="1786322349986" duration="3510000" />
-      <workItem from="1786325888293" duration="18402000" />
+      <workItem from="1786325888293" duration="22122000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -405,21 +405,39 @@
       <option name="project" value="LOCAL" />
       <updated>1786347579657</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1786352031647</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1786352031647</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1786352091994</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1786352091994</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Changes" />
     <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Pytest$test7.coverage" NAME="test7 覆盖结果" MODIFIED="1786351834694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test7.coverage" NAME="test7 覆盖结果" MODIFIED="1786352272510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1786325849844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test4.coverage" NAME="test4 覆盖结果" MODIFIED="1786331383291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1786327129248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test8.coverage" NAME="test8 覆盖结果" MODIFIED="1786355694658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test6.coverage" NAME="test6 覆盖结果" MODIFIED="1786345368166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1786329964929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test5.coverage" NAME="test5 覆盖结果" MODIFIED="1786343383378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
