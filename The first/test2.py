@@ -1,4 +1,4 @@
-字面量写法
+#字面量写法
 print(100)          #整数
 print(3.14)        #小数
 print(True)        #布尔
@@ -30,3 +30,23 @@ base=20.7  #基础播放
 incr=50  #每月新增
 print("未来第一个月播放量：",base+incr)
 print("未来第二个月播放量：",base+incr*2)
+
+#案例 变量交换
+a=10
+b=20
+c=a
+a=b
+b=c
+print(a,b)
+
+#练习 三量互换
+a=100
+b=200
+c=300
+
+d=c
+c=a
+a=b
+b=d
+
+print(a,b,c)
