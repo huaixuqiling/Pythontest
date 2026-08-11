@@ -37,7 +37,7 @@ e=s.split("_")
 print(e)
 print(isinstance(e,list))
 
-去除两边空格
+#去除两边空格
 f=s.strip()
 print(f)
 
