@@ -149,3 +149,18 @@ for i in msg:
     elif i=="k":
         numk+=1
 print(f"字符串中a的个数为{numa}，k的个数为{numk}")
+
+#练习 统计字符串 "python_programming_is_fun_and_powerful" 中有多少个 p、n 和 _
+msg="python_programming_is_fun_and_powerful"
+
+nump=0
+numn=0
+num_=0
+for i in msg:
+    if i=="p":
+        nump+=1
+    if i=="n":
+        numn+=1
+    if i=="_":
+        num_+=1
+print(nump,numn,num_)

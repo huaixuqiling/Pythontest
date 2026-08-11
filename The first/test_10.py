@@ -82,3 +82,12 @@ print(str_list)
 
 for a in str_list:
     print(a)
+
+#练习
+
+a=input("请输入一个字符串")
+
+numi=a.count("i")
+print(numi)
+st=a.endswith("ing")
+print(st)

@@ -75,9 +75,21 @@ english_score=[s[4] for s in students]
 print(f"语文的最低分是{min(chinese_score)},语文的最高分是{max(chinese_score)}，语文的平均分是{sum(chinese_score)/len(chinese_score)}")
 
 
-
 for a in students:
     sum1=a[2]+a[3]+a[4]
     avg=sum1/3
     if avg>90:
         print(f"{a[0]}")
+
+#练习 现有某公司销售部员工第一季度销售额数据（元），请计算每位员工的 总销售额 和 平均销售额，并输出。
+employees = (
+    ("E001", "张三", 12000, 15000, 9000),
+    ("E002", "李四", 8000, 11000, 13000),
+    ("E003", "王五", 20000, 18000, 22000),
+    ("E004", "赵六", 5000, 7000, 6000),
+    ("E005", "孙七", 16000, 14000, 17000)
+)
+for i in employees:
+    sum=i[2]+i[3]+i[4]
+    avg=sum/3
+    print(f"{i[1]}员工的总销售额为{sum},平均销售额{avg:.1f}")

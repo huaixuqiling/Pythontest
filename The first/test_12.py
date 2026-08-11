@@ -49,3 +49,17 @@ print(all_list)
 
 for s in all_set:
     print(f"{s}选修了{all_list.count(s)}课程")
+
+#练习    同时选了 Python 和 Java 的学生有哪些？
+#       只选了 Python 没有选 SQL 的学生有哪些？
+#       三门课都选了 的学生有哪些？
+#       至少选了一门课 的学生共有多少人？
+python_set = {"王林", "李敏娟", "十三", "曾伟", "周敏", "王卓"}
+java_set = {"王卓", "江斌", "徐立国", "许木", "通天", "李敏娟"}
+sql_set = {"十三", "曾伟", "通天", "王林", "江斌", "许木"}
+
+pj_set=python_set & java_set
+p_s_set=python_set - sql_set
+all_set1=python_set & java_set & sql_set
+all_set=len(python_set | java_set | pj_set)
+
