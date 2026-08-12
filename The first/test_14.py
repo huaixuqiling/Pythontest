@@ -117,3 +117,21 @@ def Triangle(a,b,c):
     else:
         return ("三角形为普通三角形")
 print(Triangle(10,5,5))
+
+
+#练习
+def is_prime(n):
+    if n%2==0 and n%3==0 and n%5==0 and n%7==0 and n%11==0and n%13==0and n%17==0 and n%19==0:
+        return True
+    else:
+        return False
+
+def taxi_fee(distance, wait_time):
+    money=10
+    if distance>=3:
+        money+=(distance-3)*2
+    if wait_time>=0:
+        if wait_time%5!=0:
+            money+=wait_time//5+1
+        else:
+            money+=wait_time//5
