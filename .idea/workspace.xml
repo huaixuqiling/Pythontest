@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2034fba-2527-4bfe-87f1-7cebe5e1130f" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/The first/test_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/test_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/tset_16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The first/test8.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The first/test9.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The first/test_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The first/test_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The first/test_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test_12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/The first/test_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test_13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,61 +40,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000000007" />
-      <entry key="MS500" value="1.0014760936799962" />
-      <entry key="S2" value="1.1960101135189347" />
-      <entry key="S5" value="1.5210883840123506" />
-      <entry key="S10" value="1.7218645191532485" />
-      <entry key="S30" value="1.8970549232758274" />
-      <entry key="S60" value="1.9504134400188615" />
-      <entry key="M2" value="2.2187950030227688" />
-      <entry key="M5" value="6.968820988042852" />
-      <entry key="M10" value="20.7222430207576" />
-      <entry key="M15" value="33.14139333394376" />
-      <entry key="M30" value="56.16539081978558" />
-      <entry key="H1" value="87.5753048510996" />
-      <entry key="H2" value="184.68891210886056" />
-      <entry key="H4" value="447.6615086348433" />
-      <entry key="D1" value="1821.8350271284341" />
-      <entry key="W1" value="2533.6910134741893" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.2543056095843368E-99" />
+      <entry key="S2" value="1.9718000931498598E-25" />
+      <entry key="S5" value="1.6717323699671948E-10" />
+      <entry key="S10" value="1.818606725840374E-5" />
+      <entry key="S30" value="0.06623135693978899" />
+      <entry key="S60" value="0.830964562351421" />
+      <entry key="M2" value="4.22422500007342" />
+      <entry key="M5" value="14.488005886663649" />
+      <entry key="M10" value="23.30595363087444" />
+      <entry key="M15" value="27.556510709664717" />
+      <entry key="M30" value="34.465329221906956" />
+      <entry key="H1" value="63.57586477660007" />
+      <entry key="H2" value="175.13364866872527" />
+      <entry key="H4" value="443.58766877304134" />
+      <entry key="D1" value="2035.4015518419217" />
+      <entry key="W1" value="3014.3523288261053" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="3.102849609752493E-103" />
-      <entry key="S5" value="9.924400698659704E-42" />
-      <entry key="S10" value="3.150326841883701E-21" />
-      <entry key="S30" value="1.4952457419349216E-7" />
-      <entry key="S60" value="4.370086122215361E-4" />
-      <entry key="M2" value="0.026957037045004698" />
-      <entry key="M5" value="0.3634954735766172" />
-      <entry key="M10" value="0.9562410303966593" />
-      <entry key="M15" value="1.3634407005504197" />
-      <entry key="M30" value="2.0553392080053494" />
-      <entry key="H1" value="4.418576208643673" />
-      <entry key="H2" value="16.167913829037772" />
-      <entry key="H4" value="47.41388124141488" />
-      <entry key="D1" value="200.3973176177201" />
-      <entry key="W1" value="277.7558082378242" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000000536573" />
+      <entry key="S30" value="1.0007630711226947" />
+      <entry key="S60" value="1.04786584255134" />
+      <entry key="M2" value="1.3923515725782556" />
+      <entry key="M5" value="2.493915187883141" />
+      <entry key="M10" value="3.41153694639266" />
+      <entry key="M15" value="3.8475968901150117" />
+      <entry key="M30" value="4.65543701378278" />
+      <entry key="H1" value="8.666321231469508" />
+      <entry key="H2" value="23.213517122278596" />
+      <entry key="H4" value="56.48693605410173" />
+      <entry key="D1" value="238.72164496166485" />
+      <entry key="W1" value="347.0846104528169" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9526379980439437" />
-      <entry key="MS500" value="0.9917946131287579" />
-      <entry key="S2" value="1.1927735484163022" />
-      <entry key="S5" value="1.519252311017949" />
-      <entry key="S10" value="1.7207792534339805" />
-      <entry key="S30" value="1.8966446416628508" />
-      <entry key="S60" value="1.9505929046338604" />
-      <entry key="M2" value="2.2440127180176237" />
-      <entry key="M5" value="7.3197345623723535" />
-      <entry key="M10" value="21.65517434646715" />
-      <entry key="M15" value="34.479047511782184" />
-      <entry key="M30" value="58.19841608683058" />
-      <entry key="H1" value="91.97711698116696" />
-      <entry key="H2" value="200.83997849560333" />
-      <entry key="H4" value="495.0559717650715" />
-      <entry key="D1" value="2022.2214283405822" />
-      <entry key="W1" value="2811.444752933145" />
+      <entry key="MS100" value="0.0134150849443399" />
+      <entry key="MS500" value="0.42220044371189097" />
+      <entry key="S2" value="0.8060828314929676" />
+      <entry key="S5" value="0.9173854939302023" />
+      <entry key="S10" value="0.9578196773271878" />
+      <entry key="S30" value="1.0516039236799062" />
+      <entry key="S60" value="1.8636981579165228" />
+      <entry key="M2" value="5.588696996071596" />
+      <entry key="M5" value="16.945077435627905" />
+      <entry key="M10" value="26.6885060147706" />
+      <entry key="M15" value="31.38149762739808" />
+      <entry key="M30" value="39.10697554861463" />
+      <entry key="H1" value="72.23095032162813" />
+      <entry key="H2" value="198.33333414441418" />
+      <entry key="H4" value="500.0573276428879" />
+      <entry key="D1" value="2274.1110850758428" />
+      <entry key="W1" value="3361.434472458842" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -124,6 +122,9 @@
     "Python.test_11.executor": "Run",
     "Python.test_12.executor": "Run",
     "Python.test_13.executor": "Run",
+    "Python.test_14.executor": "Run",
+    "Python.test_15.executor": "Run",
+    "Python.tset_16.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -147,7 +148,7 @@
       <recent name="D:\develop\Pytest\The first" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test9">
+  <component name="RunManager" selected="Python.tset_16">
     <configuration name="test9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest" />
       <option name="ENV_FILES" value="" />
@@ -165,81 +166,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,13 +199,88 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tset_16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/tset_16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tset_16" />
+        <item itemvalue="Python.test_15" />
+        <item itemvalue="Python.test_14" />
         <item itemvalue="Python.test9" />
         <item itemvalue="Python.test_13" />
-        <item itemvalue="Python.test_12" />
-        <item itemvalue="Python.test_11" />
-        <item itemvalue="Python.test_10" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +304,9 @@
       <workItem from="1786322349986" duration="3510000" />
       <workItem from="1786325888293" duration="26213000" />
       <workItem from="1786406514038" duration="57000" />
-      <workItem from="1786406579961" duration="27101000" />
+      <workItem from="1786406579961" duration="27821000" />
+      <workItem from="1786493148884" duration="303000" />
+      <workItem from="1786493459990" duration="13532000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -473,7 +476,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786438152894</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1786453253929</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1786453253930</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,9 +503,12 @@
     <SUITE FILE_PATH="coverage/Pytest$test_13.coverage" NAME="test_13 覆盖结果" MODIFIED="1786437840553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_11.coverage" NAME="test_11 覆盖结果" MODIFIED="1786428625846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test7.coverage" NAME="test7 覆盖结果" MODIFIED="1786352272510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test_14.coverage" NAME="test_14 覆盖结果" MODIFIED="1786498467398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test1.coverage" NAME="test1 覆盖结果" MODIFIED="1786325849844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test4.coverage" NAME="test4 覆盖结果" MODIFIED="1786331383291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test6.coverage" NAME="test6 覆盖结果" MODIFIED="1786345368166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test_15.coverage" NAME="test_15 覆盖结果" MODIFIED="1786500592574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$tset_16.coverage" NAME="tset_16 覆盖结果" MODIFIED="1786503294612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_12.coverage" NAME="test_12 覆盖结果" MODIFIED="1786430772286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test5.coverage" NAME="test5 覆盖结果" MODIFIED="1786343383378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test9.coverage" NAME="test9 覆盖结果" MODIFIED="1786450774703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />

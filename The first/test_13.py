@@ -153,3 +153,45 @@ while True:
 #练习  现有某班级学生的姓名和语文成绩，请实现以下功能：添加学生（姓名 + 语文成绩）查询学生成绩，列出所有学生成绩，退出系统
 scores = {"王林": 85, "李敏娟": 92, "十三": 78}
 
+print("欢迎使用教务管理系统")
+print("\t")
+print("######### 教务管理系统 #########")
+print("#        1.添加学生信息        #")
+print("#        2.删除学生信息        #")
+print("#        3.查询学生信息        #")
+print("#        4.列出所有学生        #")
+print("#         5.退出系统          #")
+print("#############################")
+students={}
+while True:
+    do=input("请输入您想要进行的操作：")
+    match do:
+        case "1":
+            stdname=input("请输入学生姓名")
+            if (stdname not in students):
+                stdchinese=input("请输入学生语文成绩")
+                students[stdname] = stdchinese
+                print("已录入成功")
+            else:
+                print("该学生已被录入，请核对后再试")
+        case "2":
+            stdname = input("请输入要删除的学生姓名")
+            if (stdname  in students):
+                del students[stdname]
+                print("已删除成功")
+            else:
+                print("该学生未被录入，请核对后再试")
+        case "3":
+            stdname = input("请输入要查询的学生姓名")
+            if (stdname in students):
+                chinese=students[stdname]
+                print(f"{stdname}的成绩为{chinese}")
+        case "4":
+            print("正在列出信息")
+            for name,score in students.items():
+                print(f"{name}的成绩为{score}")
+        case "5":
+            print("已退出系统")
+            break
+        case _:
+            print("输入内容有误请进行重试")
