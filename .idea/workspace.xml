@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2034fba-2527-4bfe-87f1-7cebe5e1130f" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/The first/resources/perfectMoment_9211578268485693452_8.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/resources/图片1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/resources/微信图片_20231113222409.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/resources/微信图片_20231113222741.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/test_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/test_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/test_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/The first/test_23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/ai_test/ai_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/ai_test/ai_test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/ai_test/ai_test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/ai_test/ai_test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/ai_test/ai_test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/ai_test/ai_test6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/resources/操作文件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/test_24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The first/test_25.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The first/test_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/The first/test_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,60 +47,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000049" />
-      <entry key="S2" value="1.0002831920957382" />
-      <entry key="S5" value="1.0536918956838253" />
-      <entry key="S10" value="1.4430592113662526" />
-      <entry key="S30" value="4.582412022684283" />
-      <entry key="S60" value="9.895429677130206" />
-      <entry key="M2" value="18.904604279515105" />
-      <entry key="M5" value="38.28376990360177" />
-      <entry key="M10" value="56.42617865736003" />
-      <entry key="M15" value="67.88547297889197" />
-      <entry key="M30" value="101.7117896349832" />
-      <entry key="H1" value="178.28764647044224" />
-      <entry key="H2" value="318.089208192221" />
-      <entry key="H4" value="580.5256160468523" />
-      <entry key="D1" value="2403.152268465548" />
-      <entry key="W1" value="3843.874749794536" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0000000001356304" />
+      <entry key="S30" value="1.0005188544743133" />
+      <entry key="S60" value="1.026007641525332" />
+      <entry key="M2" value="1.2431623034848434" />
+      <entry key="M5" value="2.1955878167697698" />
+      <entry key="M10" value="3.153689201028875" />
+      <entry key="M15" value="3.638367430533242" />
+      <entry key="M30" value="4.271830335780267" />
+      <entry key="H1" value="7.034238286762454" />
+      <entry key="H2" value="36.52940608247589" />
+      <entry key="H4" value="178.0143771419923" />
+      <entry key="D1" value="2092.0056425088364" />
+      <entry key="W1" value="4350.818816955046" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.7236377904640362E-91" />
-      <entry key="MS500" value="7.035406593908942E-19" />
-      <entry key="S2" value="2.896158328402579E-5" />
-      <entry key="S5" value="0.015301329962025557" />
-      <entry key="S10" value="0.1237942882822359" />
-      <entry key="S30" value="0.5461776841180673" />
-      <entry key="S60" value="0.9986679577503185" />
-      <entry key="M2" value="1.9335940771769755" />
-      <entry key="M5" value="4.7064450470547925" />
-      <entry key="M10" value="7.7765932161819045" />
-      <entry key="M15" value="9.622664674528577" />
-      <entry key="M30" value="13.805762503873474" />
-      <entry key="H1" value="23.145722395258893" />
-      <entry key="H2" value="43.75332554057914" />
-      <entry key="H4" value="85.38054017438192" />
-      <entry key="D1" value="323.3017834255123" />
-      <entry key="W1" value="493.62432087498286" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="3.4125791764115226E-208" />
+      <entry key="S60" value="2.5352406189829693E-104" />
+      <entry key="M2" value="3.391760674265288E-52" />
+      <entry key="M5" value="1.1314833613777567E-20" />
+      <entry key="M10" value="5.311113757282784E-10" />
+      <entry key="M15" value="2.188057505666862E-6" />
+      <entry key="M30" value="0.010411023098197686" />
+      <entry key="H1" value="0.8561383237220678" />
+      <entry key="H2" value="10.573642198368956" />
+      <entry key="H4" value="50.153428766593166" />
+      <entry key="D1" value="381.39220516733656" />
+      <entry key="W1" value="691.0673273175123" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="8.986207525633541E-4" />
-      <entry key="MS500" value="0.24587551850656414" />
-      <entry key="S2" value="0.7044155828192895" />
-      <entry key="S5" value="0.9299044136670795" />
-      <entry key="S10" value="1.4649019317312" />
-      <entry key="S30" value="5.04498284920149" />
-      <entry key="S60" value="10.819680601534504" />
-      <entry key="M2" value="20.76627081238401" />
-      <entry key="M5" value="42.9161007791679" />
-      <entry key="M10" value="64.13651985944256" />
-      <entry key="M15" value="77.45173122702992" />
-      <entry key="M30" value="115.47765885263837" />
-      <entry key="H1" value="201.40329491467384" />
-      <entry key="H2" value="361.81765530127007" />
-      <entry key="H4" value="665.8837626365539" />
-      <entry key="D1" value="2726.4393326587656" />
-      <entry key="W1" value="4337.495826421435" />
+      <entry key="MS100" value="0.9460576467255959" />
+      <entry key="MS500" value="0.9889709163809315" />
+      <entry key="S2" value="0.9972312513520695" />
+      <entry key="S5" value="0.9988915792636801" />
+      <entry key="S10" value="0.9994456361076671" />
+      <entry key="S30" value="1.0003339487402663" />
+      <entry key="S60" value="1.0259132264688644" />
+      <entry key="M2" value="1.2431074140898273" />
+      <entry key="M5" value="2.1955525916081013" />
+      <entry key="M10" value="3.153664725917765" />
+      <entry key="M15" value="3.6383509364030884" />
+      <entry key="M30" value="4.28221247208156" />
+      <entry key="H1" value="7.889674792565425" />
+      <entry key="H2" value="47.09901218816856" />
+      <entry key="H4" value="228.1582658360046" />
+      <entry key="D1" value="2473.3833365186315" />
+      <entry key="W1" value="5041.882146128189" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,6 +115,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ai_test3.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
     "Python.test3.executor": "Run",
@@ -131,7 +134,10 @@
     "Python.test_18.executor": "Run",
     "Python.test_19.executor": "Run",
     "Python.test_20.executor": "Run",
+    "Python.test_21.executor": "Run",
     "Python.test_22.executor": "Run",
+    "Python.test_24.executor": "Run",
+    "Python.test_25.executor": "Run",
     "Python.test_moudle1.executor": "Run",
     "Python.test_moudle2.executor": "Run",
     "Python.test_moudle3.executor": "Run",
@@ -144,7 +150,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/develop/Pytest/The first/resources",
+    "last_opened_file_path": "D:/develop/Pytest/The first/ai_test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -158,13 +164,40 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\Pytest\The first\ai_test" />
       <recent name="D:\develop\Pytest\The first\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\develop\Pytest\The first" />
+      <recent name="D:\develop\Pytest\The first\ai_test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_22">
+  <component name="RunManager" selected="Python.ai_test3">
+    <configuration name="ai_test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first/ai_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/ai_test/ai_test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest" />
       <option name="ENV_FILES" value="" />
@@ -190,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,7 +239,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,7 +264,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,32 +289,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_22.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_moudle3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pytest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/The first/The moudle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/The moudle/test_moudle3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/The first/test_25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,10 +300,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_moudle3" />
-        <item itemvalue="Python.test_22" />
-        <item itemvalue="Python.test_20" />
-        <item itemvalue="Python.test_19" />
+        <item itemvalue="Python.ai_test3" />
+        <item itemvalue="Python.test_25" />
+        <item itemvalue="Python.test_24" />
+        <item itemvalue="Python.test_21" />
         <item itemvalue="Python.test_18" />
       </list>
     </recent_temporary>
@@ -332,7 +340,11 @@
       <workItem from="1786600699938" duration="16000" />
       <workItem from="1786600721590" duration="3982000" />
       <workItem from="1786607944314" duration="15000" />
-      <workItem from="1786607963235" duration="764000" />
+      <workItem from="1786607963235" duration="6545000" />
+      <workItem from="1786667331520" duration="102000" />
+      <workItem from="1786667439443" duration="588000" />
+      <workItem from="1786668043102" duration="15000" />
+      <workItem from="1786668062911" duration="16789000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -534,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786538452791</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Changes">
+      <option name="closed" value="true" />
+      <created>1786608741543</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1786608741543</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,15 +567,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pytest$test_moudle1.coverage" NAME="test_moudle1 覆盖结果" MODIFIED="1786515716882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first/The moudle" />
-    <SUITE FILE_PATH="coverage/Pytest$test_18.coverage" NAME="test_18 覆盖结果" MODIFIED="1786517693363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$ai_test3.coverage" NAME="ai_test3 覆盖结果" MODIFIED="1786675557287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first/ai_test" />
+    <SUITE FILE_PATH="coverage/Pytest$test_18.coverage" NAME="test_18 覆盖结果" MODIFIED="1786624148623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test3.coverage" NAME="test3 覆盖结果" MODIFIED="1786407384583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$tset_17.coverage" NAME="tset_17 覆盖结果" MODIFIED="1786514756437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test7.coverage" NAME="test7 覆盖结果" MODIFIED="1786352272510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test_24.coverage" NAME="test_24 覆盖结果" MODIFIED="1786674757198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_15.coverage" NAME="test_15 覆盖结果" MODIFIED="1786500592574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_12.coverage" NAME="test_12 覆盖结果" MODIFIED="1786430772286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test5.coverage" NAME="test5 覆盖结果" MODIFIED="1786343383378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test_21.coverage" NAME="test_21 覆盖结果" MODIFIED="1786611760354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_22.coverage" NAME="test_22 覆盖结果" MODIFIED="1786600728330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1786365504327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
+    <SUITE FILE_PATH="coverage/Pytest$test_25.coverage" NAME="test_25 覆盖结果" MODIFIED="1786675245870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test8.coverage" NAME="test8 覆盖结果" MODIFIED="1786409446322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_10.coverage" NAME="test_10 覆盖结果" MODIFIED="1786416160824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
     <SUITE FILE_PATH="coverage/Pytest$test_13.coverage" NAME="test_13 覆盖结果" MODIFIED="1786437840553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The first" />
